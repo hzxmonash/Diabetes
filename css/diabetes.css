@@ -1,0 +1,31 @@
+#choropleth_map {
+	top: 50px;
+	bottom: 10px; 
+	left: 150px;
+	right: 50px;
+	height: 500px;
+	width: 400px;
+}
+
+#bubble_chart {
+    top:10px;
+	bottom: 10px; 
+	left: 60px;
+	right: 50px;
+	height: 500px;
+	width: 400px;
+}
+.outer {
+    flex-wrap: wrap;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+    font-size: 20px;
+}
+body *{
+    font-family: 'Open Sans', sans-serif;
+}
